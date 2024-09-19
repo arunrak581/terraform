@@ -5,11 +5,11 @@ variable "instance_names" {
 }
 
 # variable "domain_name" {
-#   default = "daws81s.online"
+#   default = "arunrak.online"
 # }
 
 # variable "zone_id" {
-#   default = "Z09912121MS725XSKH1TG"
+#   default = "Z0401343SKHLIZG59V3W"
 # }
 
 variable "environment" {
